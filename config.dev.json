@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100089877583784",
+    "100089627205102",
     ""
   ],
   "whiteListMode": {
@@ -25,8 +25,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Rousseau |👨🏾‍🦯",
-  "prefix": "€",
+  "nickNameBot": "❣️☄️Alya💝🧸",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -85,7 +85,7 @@
     "enable": true,
     "timeRestart": 3600000,
     "delayAfterStopListening": 2000,
-    "logNoti": true,
+    "logNoti": false,
     "notes": "the value of timeRestart and delayAfterStopListening is milisecond, You shouldn't edit this if you don't know what it is"
   },
   "notiWhenListenMqttError": {
@@ -118,8 +118,8 @@
   },
   "logEvents": {
     "disableAll": false,
-    "message": true,
-    "message_reaction": true,
+    "message": false,
+    "message_reaction": false,
     "message_unsend": true,
     "message_reply": true,
     "event": true,
